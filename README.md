@@ -1,2 +1,2 @@
-cda-vorstand
+cda-satzung
 ============
