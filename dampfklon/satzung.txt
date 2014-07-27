@@ -1,0 +1,253 @@
+SATZUNG
+
+des Vereins Chaos Darmstadt
+
+Version 0.99 - 07.11.2005
+
+  §01 Name, Sitz, Rechtsfähigkeit, Geschäftsjahr
+
+1. Der Verein führt den Namen Chaos Darmstadt. 
+
+2. Sitz des Vereins ist Darmstadt.
+
+3. Der Verein Chaos Darmstadt soll in das Vereinsregister des 
+  zuständigen Amtsgerichtes eingetragen werden; nach der 
+  Eintragung führt er den Zusatz e.V.
+
+4. Geschäftsjahr des Vereins ist das Kalenderjahr.
+
+  §02 Zweck des Vereins
+
+1. Chaos Darmstadt verfolgt ausschließlich und unmittelbar 
+  gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstige 
+  Zwecke" der Abgabenordung 1977. Zweck des Vereins ist die 
+  Förderung von Wissenschaft und Forschung, Bildung und Erziehung 
+  an der TU Darmstadt auf dem Gebiet der Computersicherheit, des 
+  Datenschutzes und des kreativen Umgangs mit neuen Technologien.
+
+2. Der Satzungszweck wird insbesondere verwirklicht durch:
+
+  (a) Durchführung wissenschaftlicher Veranstaltungen und 
+    Forschungsvorhaben;
+
+  (b) Durchführung von Fortbildungsveranstaltungen für 
+    Computersicherheit, Datenschutz und kreativen Umgang mit 
+    neuen Technologien und deren Anwendungen;
+
+  (c) Ausbildung von Studierenden und Iteressierten der 
+    Hochschulregion Darmstadt auf dem Gebiet der 
+    Computersicherheit, des Datenschutzes und des kreativen 
+    Umgangs mit neuen Technologien und deren Anwendungen.
+
+  §03 Selbstlosigkeit
+
+1. Der Verein ist selbstlos tätig, er verfolgt nicht in erster 
+  Linie eigenwirtschaftliche Zwecke.
+
+2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke 
+  verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus 
+  Mitteln des Vereins.
+
+3. Es darf keine Person durch Ausgaben, die dem Zweck der 
+  Körperschaft fremd sind, oder durch unverhältnismäßig hohe 
+  Vergütungen begünstigt werden.
+
+  §04 Mitglieder
+
+1. Mitglieder können natürliche Personen und juristische Personen 
+  jedweder Rechtsform werden.
+
+  §05 Begin und Ende der Mitgliedschaft
+
+1. Der Vorstand entscheidet auf schriftlichen oder 
+  elektronischren Antrag des Antragstellers über die Aufnahme. 
+  Der Beschluss wird dem Antragsteller schriftlich oder 
+  elektronsich mitgeteilt.
+Drei reguläre Vorstandsmitglieder können vorrübergehend einen 
+  Antrag annehmen, dem die Vorstandsmitglieder der Universität 
+  (§9, Abs 3 und 4) wiedersprechen können.
+
+2. Die Mitgliedschaft dauert mindestens 1 Jahr, danach verlängert 
+  sie sich jeweils um ein Jahr.
+
+3. Die Mitgliedschaft endet
+
+  (a) bei juristischen Personen mit deren Auflösung.
+
+  (b) bei natürlichen Personen mit ihrem Tod.
+
+  (c) nach schriftlicher Kündigung eines Mitgliedes zum Ende des 
+    Mitgliedzeitraums nach Absatz 2. Die Kündigung muss 
+    mindestens 14 Tage vor Ablauf des Mitgliedzeitraums 
+    schriftlich oder elektronisch beim Vorstand eingegangen sein.
+
+  (d) Bei Mitgliedern, die sich trotz schriftlicher Mahnung mit 
+    mehr als einem Jahresbeitrag im Verzug befinden.
+
+  (e) Bei Ausschluß des Mitgliedes.
+
+  §06 Mitgliedsbeiträge
+
+1. Mitglieder errichten, wenn die Mitgliederversammlung des 
+  Vereins das beschließt, Mitgliedsbeiträge in einer dann von ihr 
+  festgelegten Höhe. Der Beitrag wird dann im Voraus fällig.
+
+2. An die Stelle der Mitgliedsbeiträge können mit Genehmigung des 
+  Vorstandes andere gleichwertige Zuwendungen treten.
+
+  §07 Organe
+
+Die Organe von Chaos Darmstadt sind die Mitgliederversammlung und 
+der Vorstand.
+
+  §08 Mitgliederversammlung
+
+1. Die Mitgliederversammlung besteht aus den Mitgliedern von 
+  Chaos Darmstadt.
+
+2. Die ordentliche Mitgliederversammlung wird einmal jährlich vom 
+  Vorstand eingerufen.
+
+3. Es kann eine ausserordentliche Mitgliederversammlung 
+  eingerufen werden. Dazu ist entweder ein Beschluss des 
+  Vorstandes oder die Zustimmung von einem Drittel der 
+  stimmberechtigten Mitglieder notwendig.
+
+4. Die Einladung zur Mitgliederversammlung ist den Mitgliedern 
+  elektronisch oder schriftlich unter Angabe von Ort, Zeit und 
+  Tagesordung mindestens zwei Wochen vorher zuzustellen.
+
+5. Anträge von Mitgliedern, die zusätzlich auf die Tagesordnung 
+  gesetzt werden sollen, müssen eine Woche vor dem Termin an alle 
+  Mitglieder elektronisch geschickt werden. Dazu reicht das 
+  Versenden an die Vereinsmitgliedermailingliste aus, in die alle 
+  Vereinsmitglieder eingetragen werden.
+
+6. Eine Vertretung eines Mitgliedes durch ein anderes Mitglied 
+  ist möglich, wenn die Vertretungsbefugnis schriftlich 
+  nachgewiesen werden kann oder unstrittig ist.
+
+7. An einer Mitgliederversammlung kann elektronisch teilgenommen 
+  werden, wenn geeignete Techniken vorhanden sind.
+
+  §09 Zuständigkeiten der Mitgliederversammlung 
+
+Die Mitgliederversammlung:
+
+1. wählt und kontrolliert den Vorstand.
+
+2. prüft und genehmigt die Jahresabschlussrechnung des Vorstandes 
+  und erteilt die Entlastung.
+
+3. beschließt über Rechtsgeschäfte über 1000€
+
+4. entscheidet in allen Fällen, in denen nicht die Zuständigkeit 
+  eines anderen Organes bestimmt ist.
+
+5. beschliesst mit Dreiviertelmehrheit der Zahl der teilnehmenden 
+  Mitglieder und mindestens der Hälfte der stimmberechtigten 
+  Mitglieder über Auflösung oder Kooperation mit anderen 
+  Körperschaften.
+
+6. trifft Mehrheitsentscheidungen mit der Hälfte der 
+  teilnehmenden Mitglieder und einem Zehntel der stimmberechtigen 
+  Mitglieder..
+
+7. wählt aus ihren Reihen einen Protokollführer, der den Ablauf 
+  der Mitgliederversammlung schriftlich protokolliert.
+
+8. kann sich eine Geschäftsordnung geben.
+
+  §10 Vorstand 
+
+1. Der Vorstand gemäß §26BGB besteht aus 5 Personen, die reguläre 
+  Mitglieder sind und wird auf 1 Jahr durch die 
+  Mitgliederversammlung gewählt. Eine Wiederwahl ist möglich.
+
+2. Diese Mitglieder vertreten den Verein gerichtlich und 
+  aussergerichtlich. Je 2 dieser Vorstandsmitglieder zusammen 
+  sind vertretungsberechtigt.
+
+3. Darüberhinaus ist jeweils ein zusätzlicher Vorstandssitz mit 
+  einem Hochschullehrer der TU Darmstadt als Vertreter der 
+  Wissenschaft und Forschung und einem wissenschaftlichen 
+  Mitarbeiter als Vertreter des wissenschaftlichen Nachwuchses zu 
+  besetzten. Gelingt dies nicht, bleibt der entsprechende Sitz 
+  frei.
+
+4. Zu Sitzungen des Vorstandes ist eine Woche vorher schriftlich 
+  oder elektronisch zu laden. Mit dem Einverständnis aller 
+  Mitglieder des Vorstandes kann diese Frist verkürzt werden oder 
+  ganz entfallen.
+
+5. Der Vorstand ist beschlussfähig, wenn die Hälfte plus eins der 
+  Mitglieder des Vorstandes anwesend sind.
+
+6. Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
+
+7. Der Vorstand ist ermächtigt, gerichtlich oder behördlich 
+  geforderte Satzungsänderungen bis zur nächsten 
+  Mitgliederversammlung durchzuführen und umzusetzen.
+
+  §11 Zuständigkeiten des Vorstands
+
+1. Der Vorstand führt die Geschäfte des Vereins und fassen die 
+  erforderlichen Beschlüsse.
+
+2. Der Vorstand ist zu rechtsgeschäftlichen Verpflichtungen zu 
+  Lasten des Vereins bis zu einer Höhe von 1000€ ermächtigt.
+
+3. Dem Vorstand obliegt insbesondere die Führung von 
+  Aufzeichnungen über Ausgaben und Einnahmen des Vereins. Dazu 
+  kann vom Vorstand ein Vorstandsmitglied gewählt werden.
+
+4. In dringenden, keinen Aufschub duldenden Dingen kann der 
+  Vorstand über diese Befugnisse hinaus handeln. Der Vorstand ist 
+  verpflichtet die Mitglieder hierüber unverzüglich zu 
+  informieren. Auf Verlangen von 10% der Mitglieder ist dannach 
+  eine ausserordentliche Mitgliederversammlung einzuberufen.
+
+  §12 Ausschluß eines Mitgliedes
+
+1. Der Vorstand kann mit einfacher Mehrheit ein Mitglied auf 
+  Antrag ausschließen.
+
+2. Gegen diesen Ausschluß kann Widerspruch eingelegt werden.
+
+3. Ein Widerspruch führt zu einer Überprüfung des Ausschlusses 
+  durch die Mitgliederversammlung. Die einfache Mehrheit muss den 
+  AUsschluss bestätigen.
+
+4. Bis zu Entscheidung der Mitgliederversammlung ruht die 
+  Mitgliedschaft.
+
+  §13 Auflösung
+
+1. Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit 
+  der an der Mitgliederversammlung teilnehmenden Mitglieder und 
+  der Hälfte der stimmberechtigten Mitglieder.
+
+2. Bei Auflösung des Vereins oder bei Wegfall seines bisherigen 
+  Zwecks fällt das Vermögen von Chaos Darmstadt an die TU 
+  Darmstadt zwecks Verwendung für die Förderung der Wissenschaft 
+  und Forschung.
+
+3. Im Auflösungsfall ist ein Liquiditator zu bestellen.
+
+  §14 Sonstiges
+
+1. Beschlüsse, durch die eine für steuerliche Vergünstigungen 
+  wesentliche Satzungsbestimmung geändert, ergänzt, in die 
+  Satzung eingefügt oder aufgehoben wird oder die Auflösung des 
+  Vereins, die Überführung in eine andere Körperschaft oder die 
+  Übertragung des Vereinsvermöens als Ganzes sind der zuständigen 
+  Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
+
+2. Vor der Verteilung oder Übertragung des Vereinsvermögens ist 
+  die Unbedenklichkeitserklärung des zuständigen Finanzamtes 
+  einzuholen.
+
+  §15 Inkrafttreten
+
+Die Satzung tritt mit Gründung des Vereins in Kraft.
+

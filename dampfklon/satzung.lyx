@@ -1,0 +1,469 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{a4wide}
+
+\renewcommand{\theenumi}{(\arabic{enumi})}
+\renewcommand{\labelenumi}{\theenumi}  \renewcommand{\theenumii}{\arabic{enumii}} \renewcommand{\labelenumii}{\theenumii.} 
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 0
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Stichwortverzeichnis
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+SATZUNG
+\end_layout
+
+\begin_layout Author
+des Vereins Chaos Darmstadt
+\end_layout
+
+\begin_layout Date
+Version 0.99 - 07.11.2005
+\end_layout
+
+\begin_layout Section*
+§01 Name, Sitz, Rechtsfähigkeit, Geschäftsjahr
+\end_layout
+
+\begin_layout Enumerate
+Der Verein führt den Namen Chaos Darmstadt.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Sitz des Vereins ist Darmstadt.
+\end_layout
+
+\begin_layout Enumerate
+Der Verein Chaos Darmstadt soll in das Vereinsregister des zuständigen Amtsgeric
+htes eingetragen werden; nach der Eintragung führt er den Zusatz e.V.
+\end_layout
+
+\begin_layout Enumerate
+Geschäftsjahr des Vereins ist das Kalenderjahr.
+\end_layout
+
+\begin_layout Section*
+§02 Zweck des Vereins
+\end_layout
+
+\begin_layout Enumerate
+Chaos Darmstadt verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke
+ im Sinne des Abschnitts "Steuerbegünstige Zwecke" der Abgabenordung 1977.
+ Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Bildung
+ und Erziehung an der TU Darmstadt auf dem Gebiet der Computersicherheit,
+ des Datenschutzes und des kreativen Umgangs mit neuen Technologien.
+\end_layout
+
+\begin_layout Enumerate
+Der Satzungszweck wird insbesondere verwirklicht durch:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben;
+\end_layout
+
+\begin_layout Enumerate
+Durchführung von Fortbildungsveranstaltungen für Computersicherheit, Datenschutz
+ und kreativen Umgang mit neuen Technologien und deren Anwendungen;
+\end_layout
+
+\begin_layout Enumerate
+Ausbildung von Studierenden und Iteressierten der Hochschulregion Darmstadt
+ auf dem Gebiet der Computersicherheit, des Datenschutzes und des kreativen
+ Umgangs mit neuen Technologien und deren Anwendungen.
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+§03 Selbstlosigkeit
+\end_layout
+
+\begin_layout Enumerate
+Der Verein ist selbstlos tätig, er verfolgt nicht in erster Linie eigenwirtschaf
+tliche Zwecke.
+\end_layout
+
+\begin_layout Enumerate
+Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
+ Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
+\end_layout
+
+\begin_layout Enumerate
+Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd
+ sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+\end_layout
+
+\begin_layout Section*
+§04 Mitglieder
+\end_layout
+
+\begin_layout Enumerate
+Mitglieder können natürliche Personen und juristische Personen jedweder
+ Rechtsform werden.
+\end_layout
+
+\begin_layout Section*
+§05 Begin und Ende der Mitgliedschaft
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand entscheidet auf schriftlichen oder elektronischren Antrag des
+ Antragstellers über die Aufnahme.
+ Der Beschluss wird dem Antragsteller schriftlich oder elektronsich mitgeteilt.
+\begin_inset Newline newline
+\end_inset
+
+Drei reguläre Vorstandsmitglieder können vorrübergehend einen Antrag annehmen,
+ dem die Vorstandsmitglieder der Universität (§9, Abs 3 und 4) wiedersprechen
+ können.
+\end_layout
+
+\begin_layout Enumerate
+Die Mitgliedschaft dauert mindestens 1 Jahr, danach verlängert sie sich
+ jeweils um ein Jahr.
+\end_layout
+
+\begin_layout Enumerate
+Die Mitgliedschaft endet
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+bei juristischen Personen mit deren Auflösung.
+\end_layout
+
+\begin_layout Enumerate
+bei natürlichen Personen mit ihrem Tod.
+\end_layout
+
+\begin_layout Enumerate
+nach schriftlicher Kündigung eines Mitgliedes zum Ende des Mitgliedzeitraums
+ nach Absatz 2.
+ Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraums
+ schriftlich oder elektronisch beim Vorstand eingegangen sein.
+\end_layout
+
+\begin_layout Enumerate
+Bei Mitgliedern, die sich trotz schriftlicher Mahnung mit mehr als einem
+ Jahresbeitrag im Verzug befinden.
+\end_layout
+
+\begin_layout Enumerate
+Bei Ausschluß des Mitgliedes.
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+§06 Mitgliedsbeiträge
+\end_layout
+
+\begin_layout Enumerate
+Mitglieder errichten, wenn die Mitgliederversammlung des Vereins das beschließt,
+ Mitgliedsbeiträge in einer dann von ihr festgelegten Höhe.
+ Der Beitrag wird dann im Voraus fällig.
+\end_layout
+
+\begin_layout Enumerate
+An die Stelle der Mitgliedsbeiträge können mit Genehmigung des Vorstandes
+ andere gleichwertige Zuwendungen treten.
+\end_layout
+
+\begin_layout Section*
+§07 Organe
+\end_layout
+
+\begin_layout Standard
+Die Organe von Chaos Darmstadt sind die Mitgliederversammlung und der Vorstand.
+\end_layout
+
+\begin_layout Section*
+§08 Mitgliederversammlung
+\end_layout
+
+\begin_layout Enumerate
+Die Mitgliederversammlung besteht aus den Mitgliedern von Chaos Darmstadt.
+\end_layout
+
+\begin_layout Enumerate
+Die ordentliche Mitgliederversammlung wird einmal jährlich vom Vorstand
+ eingerufen.
+\end_layout
+
+\begin_layout Enumerate
+Es kann eine ausserordentliche Mitgliederversammlung eingerufen werden.
+ Dazu ist entweder ein Beschluss des Vorstandes oder die Zustimmung von
+ einem Drittel der stimmberechtigten Mitglieder notwendig.
+\end_layout
+
+\begin_layout Enumerate
+Die Einladung zur Mitgliederversammlung ist den Mitgliedern elektronisch
+ oder schriftlich unter Angabe von Ort, Zeit und Tagesordung mindestens
+ zwei Wochen vorher zuzustellen.
+\end_layout
+
+\begin_layout Enumerate
+Anträge von Mitgliedern, die zusätzlich auf die Tagesordnung gesetzt werden
+ sollen, müssen eine Woche vor dem Termin an alle Mitglieder elektronisch
+ geschickt werden.
+ Dazu reicht das Versenden an die Vereinsmitgliedermailingliste aus, in
+ die alle Vereinsmitglieder eingetragen werden.
+\end_layout
+
+\begin_layout Enumerate
+Eine Vertretung eines Mitgliedes durch ein anderes Mitglied ist möglich,
+ wenn die Vertretungsbefugnis schriftlich nachgewiesen werden kann oder
+ unstrittig ist.
+\end_layout
+
+\begin_layout Enumerate
+An einer Mitgliederversammlung kann elektronisch teilgenommen werden, wenn
+ geeignete Techniken vorhanden sind.
+\end_layout
+
+\begin_layout Section*
+§09 Zuständigkeiten der Mitgliederversammlung 
+\end_layout
+
+\begin_layout Standard
+Die Mitgliederversammlung:
+\end_layout
+
+\begin_layout Enumerate
+wählt und kontrolliert den Vorstand.
+\end_layout
+
+\begin_layout Enumerate
+prüft und genehmigt die Jahresabschlussrechnung des Vorstandes und erteilt
+ die Entlastung.
+\end_layout
+
+\begin_layout Enumerate
+beschließt über Rechtsgeschäfte über 1000€
+\end_layout
+
+\begin_layout Enumerate
+entscheidet in allen Fällen, in denen nicht die Zuständigkeit eines anderen
+ Organes bestimmt ist.
+\end_layout
+
+\begin_layout Enumerate
+beschliesst mit Dreiviertelmehrheit der Zahl der teilnehmenden Mitglieder
+ und mindestens der Hälfte der stimmberechtigten Mitglieder über Auflösung
+ oder Kooperation mit anderen Körperschaften.
+\end_layout
+
+\begin_layout Enumerate
+trifft Mehrheitsentscheidungen mit der Hälfte der teilnehmenden Mitglieder
+ und einem Zehntel der stimmberechtigen Mitglieder..
+\end_layout
+
+\begin_layout Enumerate
+wählt aus ihren Reihen einen Protokollführer, der den Ablauf der Mitgliederversa
+mmlung schriftlich protokolliert.
+\end_layout
+
+\begin_layout Enumerate
+kann sich eine Geschäftsordnung geben.
+\end_layout
+
+\begin_layout Section*
+§10 Vorstand 
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand gemäß §26BGB besteht aus 5 Personen, die reguläre Mitglieder
+ sind und wird auf 1 Jahr durch die Mitgliederversammlung gewählt.
+ Eine Wiederwahl ist möglich.
+\end_layout
+
+\begin_layout Enumerate
+Diese Mitglieder vertreten den Verein gerichtlich und aussergerichtlich.
+ Je 2 dieser Vorstandsmitglieder zusammen sind vertretungsberechtigt.
+\end_layout
+
+\begin_layout Enumerate
+Darüberhinaus ist jeweils ein zusätzlicher Vorstandssitz mit einem Hochschullehr
+er der TU Darmstadt als Vertreter der Wissenschaft und Forschung und einem
+ wissenschaftlichen Mitarbeiter als Vertreter des wissenschaftlichen Nachwuchses
+ zu besetzten.
+ Gelingt dies nicht, bleibt der entsprechende Sitz frei.
+\end_layout
+
+\begin_layout Enumerate
+Zu Sitzungen des Vorstandes ist eine Woche vorher schriftlich oder elektronisch
+ zu laden.
+ Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist
+ verkürzt werden oder ganz entfallen.
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand ist beschlussfähig, wenn die Hälfte plus eins der Mitglieder
+ des Vorstandes anwesend sind.
+\end_layout
+
+\begin_layout Enumerate
+Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand ist ermächtigt, gerichtlich oder behördlich geforderte Satzungsände
+rungen bis zur nächsten Mitgliederversammlung durchzuführen und umzusetzen.
+\end_layout
+
+\begin_layout Section*
+§11 Zuständigkeiten des Vorstands
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand führt die Geschäfte des Vereins und fassen die erforderlichen
+ Beschlüsse.
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand ist zu rechtsgeschäftlichen Verpflichtungen zu Lasten des Vereins
+ bis zu einer Höhe von 1000€ ermächtigt.
+\end_layout
+
+\begin_layout Enumerate
+Dem Vorstand obliegt insbesondere die Führung von Aufzeichnungen über Ausgaben
+ und Einnahmen des Vereins.
+ Dazu kann vom Vorstand ein Vorstandsmitglied gewählt werden.
+\end_layout
+
+\begin_layout Enumerate
+In dringenden, keinen Aufschub duldenden Dingen kann der Vorstand über diese
+ Befugnisse hinaus handeln.
+ Der Vorstand ist verpflichtet die Mitglieder hierüber unverzüglich zu informier
+en.
+ Auf Verlangen von 10% der Mitglieder ist dannach eine ausserordentliche
+ Mitgliederversammlung einzuberufen.
+\end_layout
+
+\begin_layout Section*
+§12 Ausschluß eines Mitgliedes
+\end_layout
+
+\begin_layout Enumerate
+Der Vorstand kann mit einfacher Mehrheit ein Mitglied auf Antrag ausschließen.
+\end_layout
+
+\begin_layout Enumerate
+Gegen diesen Ausschluß kann Widerspruch eingelegt werden.
+\end_layout
+
+\begin_layout Enumerate
+Ein Widerspruch führt zu einer Überprüfung des Ausschlusses durch die Mitglieder
+versammlung.
+ Die einfache Mehrheit muss den AUsschluss bestätigen.
+\end_layout
+
+\begin_layout Enumerate
+Bis zu Entscheidung der Mitgliederversammlung ruht die Mitgliedschaft.
+\end_layout
+
+\begin_layout Section*
+§13 Auflösung
+\end_layout
+
+\begin_layout Enumerate
+Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliede
+rversammlung teilnehmenden Mitglieder und der Hälfte der stimmberechtigten
+ Mitglieder.
+\end_layout
+
+\begin_layout Enumerate
+Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt
+ das Vermögen von Chaos Darmstadt an die TU Darmstadt zwecks Verwendung
+ für die Förderung der Wissenschaft und Forschung.
+\end_layout
+
+\begin_layout Enumerate
+Im Auflösungsfall ist ein Liquiditator zu bestellen.
+\end_layout
+
+\begin_layout Section*
+§14 Sonstiges
+\end_layout
+
+\begin_layout Enumerate
+Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsb
+estimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird
+ oder die Auflösung des Vereins, die Überführung in eine andere Körperschaft
+ oder die Übertragung des Vereinsvermöens als Ganzes sind der zuständigen
+ Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
+\end_layout
+
+\begin_layout Enumerate
+Vor der Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkei
+tserklärung des zuständigen Finanzamtes einzuholen.
+\end_layout
+
+\begin_layout Section*
+§15 Inkrafttreten
+\end_layout
+
+\begin_layout Standard
+Die Satzung tritt mit Gründung des Vereins in Kraft.
+\end_layout
+
+\end_body
+\end_document
