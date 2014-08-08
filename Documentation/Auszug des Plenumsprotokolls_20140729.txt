@@ -1,0 +1,81 @@
+Satzungsreform (Plenum 29.07.2014)
+==================================
+
+= Protokolauszug =
+
+* Satzung
+** es gibt immer wieder gemotze/probleme mit aktueller satzung
+** anpassung an aktuelle umstände nötig
+** nach aktueller regelung müsste jeder kleinkram über MV genehmigt werden
+** darum jetzt grundsätzliche 'reform' geplant
+** der phraidros hat sogar FOLIEN mitgebracht!!!!!1112222
+** es soll nicht ein entwurf vom vorstand kommen und dann in einer endlosen MV 
+   durchgekaut werden
+** stattdessen soll es einen offenen design prozess für die neue satzung geben. 
+   mittel zum mitwirken: ein git repo (ansprechpartner ist fleaz)
+** man kann an 'der' satzung mitarbeiten - oder auf der MV auch gerne einen 
+   eigenen fork der saztung mitbringen und vorschlagen
+** es soll für die grundsätzliche orientierung bei der satzungserstellung 
+   'designziele' geben (siehe folien: [2])
+** anschluss diskussion nachdem die folien durch sind:
+*** schlafwandler (bzgl. folie 3): große bedenken, weil leute versuchen könnten 
+    über die 'ordnung' hebel zu erzeugen um ihren willen durch zu setzen (GO 
+    tricks und so...)
+*** Phaidros (antwort) entsprechende stellen der neuen satzung/GO müssen eben 
+    sehr vorsichtig formuliert werden
+*** Phairdros: Ordnungen schaffen Ordnung
+*** schlafwandler befürchtet verbürokratisierung von projekten. Phaidros 
+    erklärt seine idee von 'teil autonomen' projekten. das würde nicht alle 
+    betreffen. nur die 'großen' mit langer laufzeit
+
+= Erläuternde Anmerkungen von Phaidros =
+
+Schon länger ist im Gespräch, unsere Satzung zu reformieren. Das hängt einmal 
+damit zusammen, dass unsere Satzung recht chaotisch und unübersichtlich ist. 
+Zum anderen werden aber einige Regelungen als unnötig unflexibel empfunden. Zu 
+denken wäre etwa an die relativ lange Mindestlaufzeit der Mitgliedschaft. 
+Schließlich bildet die Satzung schon einige Zeit nicht mehr die Vereinsrealität 
+ab: So gibt es das Plenum aus Sicht der Satzung eigentlich gar nicht und daher 
+hat das Plenum auch keine Möglichkeit, Beschlüsse zu fassen, die für den Verein 
+bindend sind. Die Satzung sieht hier vor, dass jedesmal eine 
+Mitgliederversammlung einberufen wird. Tatsächlich haben wir das in der 
+Vergangenheit aber oft so gehandhabt, dass stattdessen ein Plenum abgehalten 
+wurde. Das führt neben vielen anderen kleineren und größeren Problemen 
+beispielsweise dazu, dass Vorstände, die sich auf das Plenum verlassen, obwohl 
+die Satzung eine Mitgliederversammlung verlangt, mit ihrem Privatvermögen 
+haften.
+
+Wir wollen die Satzung bei dieser Gelegenheit gleich grundsätzlich reformieren 
+und nicht bloß hier und da einige Korrekturen einfügen. Das ergibt sich daraus, 
+dass wir denken, dass die Satzung bereits jetzt in einem Zustand ist, der nur 
+noch schlecht wartbar ist. Eine Clean-Room-Implementation erscheint uns da sehr 
+viel besser.
+
+Wir wollen aber auch nicht, dass der Vorstand einfach eine Satzung ausarbeitet 
+und die Mitgliederversammlung dann unbesehen über ein riesiges Gesamtpaket 
+abzustimmen hat. Das würde vermutlich nicht nur zu einer sehr langen und 
+anstrengenden Mitgliederversammlung führen, sondern erhöht auch die Chancen, 
+dass viele Mitglieder - vermutlich dann zurecht - unzufrieden mit dem Ergebnis 
+sein werden. Wir wollen Euch daher einen offenen Designprozess für die 
+Satzungsreform vorschlagen.
+
+Wir haben ein GIT eingerichtet, in dem die Satzung und die notwendigen 
+Begleitdokumente von jeder und jedem bearbeitet werden können. Es ist also 
+jederzeit möglich, den Entwurf zu forken, Pull-Request zu senden und so weiter. 
+Damit wir am Ende einen Satzungsvorschlag „aus einem Guß“ haben, wird der 
+Vorstand einen eigenen Branch betreuen, in dem er auf den rechtlichen und 
+systematischen Zusammenhang und die innere Logik der Satzung achtet. Es ist 
+aber durch die Verwendung von GIT jedem Vereinsmitglied möglich, dasselbe zu 
+tun und einen eigenen Entwurf zu basteln. Welche Version sich am Ende 
+durchsetzt oder ob wir bei der gegenwärtigen Satzung bleiben, entscheidet sich 
+dann auf der Mitgliederversammlung. Wir hoffen, dass sich bis zur 
+Mitgliederversammlung bereits eine ausführliche Diskussion zu den einzelnen 
+Entwürfen ergeben hat, so dass wir auf der Mitgliederversammlung schließlich die 
+Satzung nicht in jedem Punkt einzeln durchgehen und erklären müssen. Außerdem 
+ist es ein Experiment in der kooperativen Erstellung von Texten mit Hilfe von 
+OpenSource-Lösungen.
+Damit aber nun nicht jeder in eine völlig andere Richtung rennt, würden wir 
+Euch jetzt gerne einen Vorschlag machen, welche Designziele bei der 
+Satzungsreform erreicht werden sollen. Es handelt sich dabei nicht um eine fixe 
+Vorgabe, sondern eher um ein mission statement. Wenn Ihr das doof findet, könnt 
+Ihr natürlich auch Euren ganz eigenen Entwurf kochen.
